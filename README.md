@@ -64,5 +64,5 @@ Vague-"Tell me about the software."
 
 improved-"Explain the key features and benefits of Agile software development methodology."
 
-why-verall, the improved prompt ensures that the response will be relevant and informative, addressing specific aspects of Agile software development that the user is interested in.
+why-overall, the improved prompt ensures that the response will be relevant and informative, addressing specific aspects of Agile software development that the user is interested in.
 
